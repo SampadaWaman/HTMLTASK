@@ -1,0 +1,9 @@
+ol.main{
+    list-style-type: disc;
+}
+ol.sub{
+    list-style-type: circle;
+}
+ol.super{
+    list-style-type: lower-alpha;
+}
